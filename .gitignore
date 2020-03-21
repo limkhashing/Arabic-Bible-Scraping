@@ -145,6 +145,5 @@ static
 chromedriver.exe
 Quran-with-English-Translation.pdf
 credential.json
-./documentation/*.docx
 .idea
 /documentation/iPolyglot.docx
